@@ -1,1 +1,0 @@
-{'theme': '1', 'ip': '127.0.0.1', 'port': 5337, 'UpDateTests': False, 'theme_editor': '1'}
